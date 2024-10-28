@@ -24,7 +24,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/random-identity-generator](https://github.com/sPROFFEs/FakeFace).git
+   git clone https://github.com/sPROFFEs/FakeFace.git
    cd FakerFace
    pip install -r requirements.txt
    python FakerFace.py
